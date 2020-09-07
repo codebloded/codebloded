@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**codebloded/codebloded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Rohan Kumar(~CodeBloded)
+**Truth can only found into  The Code**
 
-Here are some ideas to get you started:
+### Work on MERN-Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+
+
+-  **Learning :** Full-Stack web Development :fire: | Open-Source-Contribution :fire: |	
+-  **Languages :** Python, JavaScript, C++ 💻
+-  **Organisation :** Technojam
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Twitter Badge](https://img.shields.io/badge/-rohanxrajput-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/rohanxRajput)  [![Linkedin Badge](https://img.shields.io/badge/-Rohan_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/rohan-kumar-024bb818a/) [![Gmail Badge](https://img.shields.io/badge/-rohanrajput16.phy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohanrajput16.phy@gmail.com)](mailto:rohanrajput16.phy@gmail.com)
+
+
+
+<img align="left" alt="Rohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codebloded&show_icons=true&hide_border=true" />
