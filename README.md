@@ -9,7 +9,7 @@
 ### About
 
 
--  **Learning :** Full-Stack web Development :fire: | Open-Source-Contribution :fire: |	
+-  **Learning :** Full-Stack web Development :fire: | Open-Source-Contribution :fire:|Trying to learn Machine learning	
 -  **Languages :** Python, JavaScript, C++ 💻
 -  **Organisation :** Technojam
 
