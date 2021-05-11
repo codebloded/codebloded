@@ -26,12 +26,6 @@
 </br>
 </br>
 
-<a href="#stats">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=codebloded&show_icons=true&locale=en&layout=compact" />
-</a>
-</br>
-</br>
-
 <p><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=codebloded&" alt="codebloded" /></p>
 </br>
 </br>
