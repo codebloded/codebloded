@@ -22,7 +22,7 @@
 ### Stats
 
 <a href="#stats">
-<img align="left" alt="Rohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codebloded&show_icons=true&hide_border=true&include_all_commits=true" />
+<img align="left" alt="Rohan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codebloded&show_icons=true&hide_border=true&include_all_commits2021=true" />
 </br>
 </br>
 
