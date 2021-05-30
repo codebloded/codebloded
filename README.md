@@ -3,7 +3,9 @@
 ### Rohan Kumar(~CodeBloded)
 **Truth can only found into  The Code**
 
-### Work on MERN-Stack
+### MERN-Stack
+### Next.js
+### Works on React Native
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
