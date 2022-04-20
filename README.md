@@ -5,14 +5,15 @@
 
 ### MERN-Stack
 ### Next.js
+### Web 3.0
 ### Active to Contribute in Open Source Projects
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
 
--  **Learning :** Full-Stack web Development :fire: | Open-Source-Contribution :fire:|Trying to learn Machine learning	
--  **Languages :** Python, JavaScript, C++ 💻
+-  **Learning :** WEB 3.0 🔥
+-  **Languages :** JavaScript,TypeScript, GO, Node.js 💻
 -  **Organisation :** Technojam
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
