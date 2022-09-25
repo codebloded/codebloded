@@ -14,8 +14,8 @@
 
 
 -  **Learning :** WEB 3.0 🔥
--  **Languages :** JavaScript,TypeScript, GO, Node.js 💻
--  **Organisation :** Technojam
+-  **Languages :** JavaScript,TypeScript, Node.js 💻
+-  **Organisation :** Technojam & Sugar Labs
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Skills
