@@ -6,7 +6,7 @@
 ### Google Summer of Code (GSoC'22) @Sugar Labs 
 ## Wroks on 
 #### 🟢 MERN-Stack | React Native
-#### 🟢 Active RFIDs (Radio frecquency indicator device) | NFCs
+#### 🟢 Active RFIDs (Radio frecquency indentification devices) | NFCs
 #### 🟢 Next.js
 #### 🟢 Web 3.0
 #### 🟢 Active to Contribute in Open Source Projects
