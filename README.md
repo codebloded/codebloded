@@ -1,13 +1,13 @@
 ### Hello World ! 👋
 
-### Rohan Kumar(~Codebloded) 
+### Rohan(~Codebloded) 
 
 ### <img src="https://user-images.githubusercontent.com/48005711/192122877-e301b174-b890-47b7-9cb9-d08df3daa977.png" alt="css3" width="60" height="60"/>
 ### Google Summer of Code (GSoC'22) @Sugar Labs 
 ## Wroks on 
 #### 🟢 MERN-Stack | React Native
 #### 🟢 Active RFIDs (Radio frecquency indentification devices) | NFCs
-#### 🟢 Next.js
+#### 🟢 Next.js  , NestJs , GraphQL, Mono-repo architecture , Microservices, tRPC, postgres, drizzle, SQL
 #### 🟢 Web 3.0
 #### 🟢 Active to Contribute in Open Source Projects
 
